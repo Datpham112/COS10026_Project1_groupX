@@ -1,1 +1,1 @@
-# COS10026_Project1_groupX
+# COS10026.2_Project1_group2
